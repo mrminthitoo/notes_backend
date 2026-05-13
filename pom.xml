@@ -20,6 +20,14 @@
 	<developers>
 		<developer/>
 	</developers>
+
+	<distributionManagement>
+		<repository>
+			<id>notes_backend</id>
+			<url>https://github.com/mrminthitoo/notes_backend.git</url>
+		</repository>
+	</distributionManagement>
+
 	<scm>
 		<connection/>
 		<developerConnection/>
